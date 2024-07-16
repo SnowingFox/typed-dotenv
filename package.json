@@ -4,13 +4,13 @@
   "description": "My awesome typescript library",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/snowingfox/bun-starter#readme",
+  "homepage": "https://github.com/snowingfox/typed-dotenv#readme",
   "bugs": {
-    "url": "https://github.com/snowingfox/bun-starter/issues"
+    "url": "https://github.com/snowingfox/typed-dotenv/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snowingfox/bun-starter.git"
+    "url": "git+https://github.com/snowingfox/typed-dotenv.git"
   },
   "author": "snowingfox <1503401882@qq>",
   "files": [
